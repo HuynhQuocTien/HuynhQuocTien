@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/hqtienn.1623" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="huynhquoctien-instagram" />
   </a>
-  <a href="" target="blank">
+<!--   <a href="" target="blank">
     <img src="./images/gitlab.png" alt="huynhquoctien-instagram" />
-  </a>
+  </a> -->
   <a href="mailto:quoctien01062003@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huynhquoctien-email" />
   </a>
