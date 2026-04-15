@@ -1,17 +1,24 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     ██╗  ██╗██╗   ██╗██╗   ██╗███╗   ██╗██╗  ██╗            ║
-║     ██║  ██║██║   ██║╚██╗ ██╔╝████╗  ██║██║  ██║            ║
-║     ███████║██║   ██║ ╚████╔╝ ██╔██╗ ██║███████║            ║
-║     ██╔══██║██║   ██║  ╚██╔╝  ██║╚██╗██║██╔══██║            ║
-║     ██║  ██║╚██████╔╝   ██║   ██║ ╚████║██║  ██║            ║
-║     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝            ║
-║                                                               ║
-║           Q U O C   T I E N  —  Backend Developer            ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║                  ██╗  ██╗██╗   ██╗██╗   ██╗███╗   ██╗██╗  ██╗                    ║
+║                  ██║  ██║██║   ██║╚██╗ ██╔╝████╗  ██║██║  ██║                    ║
+║                  ███████║██║   ██║ ╚████╔╝ ██╔██╗ ██║███████║                    ║
+║                  ██╔══██║██║   ██║  ╚██╔╝  ██║╚██╗██║██╔══██║                    ║
+║                  ██║  ██║╚██████╔╝   ██║   ██║ ╚████║██║  ██║                    ║
+║                  ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝                    ║
+║                                                                                  ║
+║       ██████╗ ██╗   ██╗ ██████╗  ██████╗    ████████╗██╗███████╗███╗   ██╗       ║
+║      ██╔═══██╗██║   ██║██╔═══██╗██╔════╝       ██╔══╝██║██╔════╝████╗  ██║       ║
+║      ██║   ██║██║   ██║██║   ██║██║            ██║   ██║█████╗  ██╔██╗ ██║       ║
+║      ██║▄▄ ██║██║   ██║██║   ██║██║            ██║   ██║██╔══╝  ██║╚██╗██║       ║
+║      ╚██████╔╝╚██████╔╝╚██████╔╝╚██████╗       ██║   ██║███████╗██║ ╚████║       ║
+║       ╚══▀▀═╝  ╚═════╝  ╚═════╝  ╚═════╝       ╚═╝   ╚═╝╚══════╝╚═╝  ╚═══╝       ║
+║                                                                                  ║
+║                           B A C K E N D   D E V E L O P E R                      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -28,13 +35,13 @@
 
 ```typescript
 const quocTien = {
-  name:       "Huynh Quoc Tien",
-  location:   "Ho Chi Minh City, Vietnam 🇻🇳",
-  education:  "Software Engineering @ Sai Gon University (2021–2025)",
-  role:       "Backend Developer",
-  focus:      ["RESTful APIs", "System Design", "Clean Architecture"],
-  hobbies:    ["Coding", "Esports", "Problem Solving"],
-  available:  true, // 👈 Open to work!
+  name: "Huynh Quoc Tien",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  education: "Software Engineering @ Sai Gon University (2021–2025)",
+  role: "Backend Developer",
+  focus: ["RESTful APIs", "System Design", "Clean Architecture"],
+  hobbies: ["Coding", "Esports", "Problem Solving"],
+  available: true, // 👈 Open to work!
 };
 ```
 
@@ -43,6 +50,7 @@ const quocTien = {
 ## 🛠️ Tech Stack
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,18 +58,21 @@ const quocTien = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### Frontend
+
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -78,11 +89,13 @@ const quocTien = {
 <td width="50%">
 
 ### 🏆 Esports Tournament Platform
-> *Jul 2025 – Jan 2026*
+
+> _Jul 2025 – Jan 2026_
 
 A full-lifecycle esports tournament management system with real-time bracket sync.
 
 **Highlights:**
+
 - 🎯 Auto-generate Single & Double Elimination brackets
 - ⚡ Real-time via **WebSocket + Redis Pub/Sub**
 - 🐳 Dockerized + **CI/CD** with GitHub Actions
@@ -94,11 +107,13 @@ A full-lifecycle esports tournament management system with real-time bracket syn
 <td width="50%">
 
 ### 🧩 Multiplayer Tetris
-> *Sep 2025 – Nov 2025*
+
+> _Sep 2025 – Nov 2025_
 
 Real-time multiplayer Tetris with server-controlled piece synchronization.
 
 **Highlights:**
+
 - 🎮 Synchronized game state across all players
 - 📡 **Socket.io** server-side game logic
 - ♻️ Reusable HOCs with Clean Code principles
@@ -112,11 +127,13 @@ Real-time multiplayer Tetris with server-controlled piece synchronization.
 <td width="50%">
 
 ### 🛒 E-Commerce Platform
-> *Oct 2024 – Dec 2024*
+
+> _Oct 2024 – Dec 2024_
 
 Full-featured e-commerce system with real-time notifications and RBAC.
 
 **Highlights:**
+
 - 🔐 JWT-based auth + Role-Based Access Control
 - 🔔 Real-time notifications via **Socket.io**
 - 📊 Admin dashboard for inventory & orders
@@ -128,11 +145,13 @@ Full-featured e-commerce system with real-time notifications and RBAC.
 <td width="50%">
 
 ### 🏗️ Labor Safety Reporting System
-> *May 2025 – Jul 2025 · Internship*
+
+> _May 2025 – Jul 2025 · Internship_
 
 Enterprise-grade reporting system for labor safety regulators and businesses.
 
 **Highlights:**
+
 - 📁 File upload via **Multer-S3 → MinIO** with auto-delete
 - 🔐 JWT + custom Guards & Decorators
 - 📧 Email notifications via **Nodemailer**
